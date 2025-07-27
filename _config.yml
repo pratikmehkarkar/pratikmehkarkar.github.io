@@ -59,8 +59,8 @@ plugins:
 
 author:
   name   : "Pratik Mehkarkar"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Android, .NET & AI Solutions | Business-Focused Innovation & App Architecture | Azure Certified | MDM Skills | Driving Intelligent App Innovation"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Driving Intelligent App Innovation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
