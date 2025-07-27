@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Pratik Mehkarkar"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Android, .NET & AI Solutions | Business-Focused Innovation & App Architecture | Azure Certified | MDM Skills | Driving Intelligent App Innovation"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
